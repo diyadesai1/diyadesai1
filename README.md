@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 Hey there! I'm Diya
 
-<!--
-**diyadesai1/diyadesai1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Current Computer Science B.S. Student @ UCLA**
 
-Here are some ideas to get you started:
+Passionate about **civic tech**, **web development**, and creating **accessible STEM opportunities** for everyone.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Explore my work:** [diyadesai1.github.io](https://diyadesai1.github.io/)  
+
+💻 **What I build:**  
+- 🚀 Full-stack web applications  
+- 🔒 Security-focused research  
+- 🤖 Robotics & NLP projects  
+
+📫 **Let’s connect:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diya-desai)
